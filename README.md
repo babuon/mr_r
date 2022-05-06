@@ -1,8 +1,8 @@
 # mr_r
 
-pkg update && pkg upgrade
-pkg install git
-pkg install php
-git clone https://github.com/babuon/mr_r
-cd mr_r
+pkg update && pkg upgrade </br>
+pkg install git </br>
+pkg install php </br>
+git clone https://github.com/babuon/mr_r </br>
+cd mr_r </br>
 bash run.sh
